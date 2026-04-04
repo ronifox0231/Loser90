@@ -12,7 +12,7 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "loser INDIA",
+    "BOTNAME": "YK TRICKS INDIA",
     "PREFIX": "+",
     "OTHERBOT": [
         ""
@@ -29,7 +29,7 @@
         "100046863708863",
         ""
     ],
-    "OWNER": "Loser ",
+    "OWNER": "AYUSH RAJPUT ",
     "AGE": "21",
     "GENDER": "MALE",
     "FACEBOOK": "https://www.facebook.com/share/15Z3vxfcBJ/",
@@ -39,7 +39,9 @@
     "AutoOffBotEndSleep": "disable",
     "AutoGreet": "disable",
     "AutoGreetWithSticker": "enable",
-    "AutoGreetSendPerHour": "1",https://www.facebook.com/share/1CcXfhHEiL/",
+    "AutoGreetSendPerHour": "1",
+    "AutoPost": "disable",
+    "AutoPostText": "༻𝐎𝐖𝐍𝐄𝐑:- ☞Ayush☜ ༺ ༒𝚈𝚘𝚞 𝙲𝚊𝚗 𝙲𝚊𝚕𝚕 𝙷𝚒𝚖 〠ℝ𝕦𝕕𝕣𝕒〠.༒ ༒𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝༒:- ☞ www.facebook.com/profile.php?id=61550558518720 ☜ ֎𝘍𝘰𝘳 𝘈𝘯𝘺 𝘒𝘪𝘯𝘥 𝘖𝘧 𝘏𝘦𝘭𝘱 :- https://t.me/ℝ𝕦𝕕𝕣𝕒 𝕁𝕒𝕒𝕥☜",
     "AutoPostPerHour": "1",
     "AutoPostGreet": "disable",
     "AutoPostGreetPostPerHour": "6",
@@ -50,7 +52,7 @@
     "AutoPendingGroupChat": "accept",
     "AutoBioStatus": "enable",
     "AutoBioStatusSetPerHour": "1",
-    "BioStatus": "༻𝐎𝐖𝐍𝐄𝐑:- ☞loser",
+    "BioStatus": "༻𝐎𝐖𝐍𝐄𝐑:- ☞YK TRICKS INDIA",
     "AutoLeave": "enable",
     "RandomRedditMemes": "enable",
     "RandomRedditMemesSendPerHour": "1",
